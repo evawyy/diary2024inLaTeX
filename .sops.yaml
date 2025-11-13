@@ -1,0 +1,6 @@
+creation_rules:
+  - path_regex: \.yaml$
+    key_groups:
+      - pgp:
+          - "015F6F8E327A9C34"
+
